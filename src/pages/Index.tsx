@@ -1,7 +1,5 @@
-
 import { HeroSection } from "@/components/HeroSection";
 import { FeaturesSection } from "@/components/FeaturesSection";
-import { DemoSection } from "@/components/DemoSection";
 import { FAQSection } from "@/components/FAQSection";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
@@ -14,7 +12,6 @@ const Index = () => {
         <div className="space-y-0">
           <HeroSection />
           <FeaturesSection />
-          <DemoSection />
           <FAQSection />
         </div>
       </div>
