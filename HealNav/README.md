@@ -6,11 +6,6 @@
 
 HealNav is a comprehensive, AI-driven health and wellness platform designed to empower users throughout their healthcare journey. Built using React, TypeScript, and Google's Gemini AI, HealNav combines medical expertise with cutting-edge technology to provide personalized health insights, community support, and educational resources in one seamless application.
 
-## 📽️ Demo Video
-
-https://github.com/user-attachments/assets/66e95607-9c21-4fc9-8937-0e72101c7220
-
-
 
 ## ✨ Key Features
 
