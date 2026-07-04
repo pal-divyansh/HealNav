@@ -1,6 +1,6 @@
 # HealNav: AI-Powered Health Navigation Platform
 
-![HealNav Logo](/public/HealNavLogo.webp)
+
 
 ## 🌟 Overview
 
